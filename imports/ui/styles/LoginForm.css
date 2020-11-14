@@ -1,0 +1,11 @@
+#loginForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 200px;
+    min-width: 280px;
+
+    border: 3px solid #f50057;
+    border-radius: 5px;
+}

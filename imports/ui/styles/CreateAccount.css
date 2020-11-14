@@ -1,0 +1,11 @@
+#createAccount{
+    margin: 50px auto;
+    max-width: 400px;
+    text-align: center;
+}
+
+#createAccount h3{
+    color: brown;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
